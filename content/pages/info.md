@@ -13,11 +13,25 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >
+      ## Com mais de 10 anos de experiência no mercado, somos uma empresa
+      especializada no **aluguel de painéis de LED** para eventos, comprometida
+      em tornar cada evento uma experiência **inesquecível**. Contamos com
+      **painéis de LED de alta resolução**, oferecendo uma qualidade visual que
+      impressiona e engaja o público. Nossa equipe é formada por profissionais
+      altamente qualificados, prontos para atender as necessidades dos mais
+      diversos tipos de eventos, desde pequenas celebrações até grandes
+      produções.
+
+
+      Atuamos em todo o Brasil, fornecendo soluções para **festas, rodeios,
+      shows de artistas de nível nacional** e eventos corporativos de grande
+      porte. Nossa missão é garantir que cada evento se destaque, criando
+      ambientes visuais impactantes e oferecendo suporte técnico de excelência.
+
+
+      Seja qual for o seu evento, estamos prontos para levar inovação, qualidade
+      e uma experiência única para você e seus convidados!
     media:
       type: ImageBlock
       url: /images/about.jpg
