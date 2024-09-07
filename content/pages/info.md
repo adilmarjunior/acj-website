@@ -135,7 +135,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: CodePen
+            label: Instagram
             url: 'https://codepen.io/'
         styles:
           self:
