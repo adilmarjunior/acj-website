@@ -10,7 +10,7 @@ excerpt: >-
   estratégico de recursos audiovisuais.
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image4.jpg
+  url: /images/WhatsApp Image 2024-09-07 at 17.49.41.jpeg
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
