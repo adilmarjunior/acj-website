@@ -136,7 +136,7 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://codepen.io/'
+            url: 'https://www.instagram.com/acjlocacoes'
         styles:
           self:
             textAlign: left
