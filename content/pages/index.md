@@ -158,7 +158,7 @@ sections:
           isRequired: true
           width: 1/2
           type: EmailFormControl
-        - name: address
+        - name: contato
           label: Address
           hideLabel: true
           placeholder: Address
