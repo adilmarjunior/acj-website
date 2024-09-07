@@ -14,7 +14,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/WhatsApp Image 2024-09-07 at 17.46.37.jpeg
-  altText: Post thumbnail image
+  altText: Imagem de paineis de led
 backgroundImage:
   type: BackgroundImage
   url: /images/gallery-2.jpg
