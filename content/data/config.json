@@ -5,17 +5,18 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
+        "title": "ACJ Locações",
         "isTitleVisible": true,
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info"
+                "label": "Informações",
+                "url": "/info",
+                "altText": "Informações"
             },
             {
                 "type": "Link",
-                "label": "Projects",
+                "label": "Eventos",
                 "url": "/projects"
             },
             {
@@ -27,17 +28,11 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
-            },
-            {
-                "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
+                "label": "Facebook",
+                "altText": "",
+                "url": "/acjlocacoes",
+                "icon": "instagram",
+                "elementId": ""
             }
         ],
         "styles": {
@@ -51,14 +46,14 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
+                "label": "Informações",
                 "url": "/info",
                 "altText": ""
             },
             {
                 "type": "Link",
-                "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
+                "label": "Contato",
+                "url": "mailto:contato@acjlocacoes.com",
                 "altText": ""
             },
             {
@@ -69,26 +64,31 @@
             },
             {
                 "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
+                "label": "Instagram",
+                "url": "https://www.instagram.com/acjlocacoes/",
+                "altText": "Instagram"
             }
         ],
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
-            "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
-            "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
-            "addressAltText": "My address"
+            "phoneNumber": "(37) 99906-2270 (37)99871-2659",
+            "phoneAltText": "Número de telefone para contato",
+            "email": "contato@acjlocacoes.com",
+            "emailAltText": "email para contato",
+            "address": "Belo Horizonte - MG",
+            "addressAltText": "Endereço"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
+        "copyrightText": "ACJ Locações\n",
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     }
