@@ -16,12 +16,14 @@ sections:
     text: >
       ## Com mais de 10 anos de experiência no mercado, somos uma empresa
       especializada no **aluguel de painéis de LED** para eventos, comprometida
-      em tornar cada evento uma experiência **inesquecível**. Contamos com
-      **painéis de LED de alta resolução**, oferecendo uma qualidade visual que
-      impressiona e engaja o público. Nossa equipe é formada por profissionais
-      altamente qualificados, prontos para atender as necessidades dos mais
-      diversos tipos de eventos, desde pequenas celebrações até grandes
-      produções.
+      em tornar cada evento uma experiência **inesquecível**. 
+
+
+      Contamos com **painéis de LED de alta resolução**, oferecendo uma
+      qualidade visual que impressiona e engaja o público. Nossa equipe é
+      formada por profissionais altamente qualificados, prontos para atender as
+      necessidades dos mais diversos tipos de eventos, desde pequenas
+      celebrações até grandes produções.
 
 
       Atuamos em todo o Brasil, fornecendo soluções para **festas, rodeios,
