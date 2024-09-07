@@ -159,7 +159,7 @@ sections:
           width: 1/2
           type: EmailFormControl
         - name: contact
-          label: Address
+          label: Telefone para contato
           hideLabel: true
           placeholder: Address
           isRequired: true
