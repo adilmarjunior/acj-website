@@ -36,7 +36,7 @@ sections:
       e uma experiência única para você e seus convidados!
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/WhatsApp Image 2024-09-07 at 17.46.37.jpeg
       altText: Hero image
     styles:
       self:
