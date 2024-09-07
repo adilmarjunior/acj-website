@@ -7,7 +7,7 @@ client: ''
 description: ''
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/WhatsApp Image 2024-09-07 at 17.49.41.jpeg
   altText: ''
 media:
   type: ImageBlock
