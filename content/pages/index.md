@@ -14,12 +14,11 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      Aluguel de Painel de LED para Eventos, Shows e Formaturas | Soluções
+      Visuais para Impactar seu evento.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Painéis de LED que transformam seu evento em uma experiência visual
+      impactante. Alugue agora para shows, formaturas e eventos corporativos.
     styles:
       self:
         height: auto
@@ -52,7 +51,7 @@ sections:
     elementId: ''
     actions:
       - type: Link
-        label: See all projects
+        label: Veja todos nossos projetos
         url: /projects
     showDate: false
     showDescription: true
@@ -84,16 +83,17 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Veja alguns de nossos eventos
+    title: Eventos
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Featured Posts
+    subtitle: Posts
     showFeaturedImage: false
     actions:
       - type: Link
-        label: See all posts
+        label: Veja todos os nossos posts
         url: /blog
     posts:
       - content/pages/blog/post-six.md
@@ -130,22 +130,24 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: >-
+      Tem interesse em alugar painéis de LED de alta resolução? Nos fale um
+      pouco mais sobre a sua necessidade.
     form:
       type: FormBlock
       elementId: sign-up-form
       fields:
         - name: firstName
-          label: First Name
+          label: Nome
           hideLabel: true
-          placeholder: First Name
+          placeholder: Nome
           isRequired: true
           width: 1/2
           type: TextFormControl
         - name: lastName
-          label: Last Name
+          label: Sobrenome
           hideLabel: true
-          placeholder: Last Name
+          placeholder: Sobrenome
           isRequired: false
           width: 1/2
           type: TextFormControl
@@ -156,19 +158,14 @@ sections:
           isRequired: true
           width: 1/2
           type: EmailFormControl
-        - name: address
-          label: Address
+        - name: contact
+          label: Telefone para contato
           hideLabel: true
-          placeholder: Address
+          placeholder: Telefone para contato
           isRequired: true
           width: 1/2
           type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: "Enviar \U0001F680"
       styles:
         submitLabel:
           textAlign: center
