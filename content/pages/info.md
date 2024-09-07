@@ -125,11 +125,6 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        actions: []
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
         actions:
           - type: Link
             label: Twitter
