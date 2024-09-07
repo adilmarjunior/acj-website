@@ -7,7 +7,7 @@ client: Awesome client
 description: ''
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/WhatsApp Image 2024-09-07 at 17.45.04.jpeg
   altText: Project thumbnail image
 media:
   type: ImageBlock
