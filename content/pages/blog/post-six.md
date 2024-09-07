@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: "How to Structure and Organize a Next.js Project \U0001F5C2️"
+title: Os Benefícios de Alugar um Painel de LED de Alta Qualidade para o Seu Evento
 colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
