@@ -152,7 +152,7 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://www.instagram.com/'
+            url: 'https://www.instagram.com/acjlocacoes'
         styles:
           self:
             textAlign: left
