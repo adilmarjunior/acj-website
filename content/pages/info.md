@@ -196,7 +196,7 @@ sections:
     subtitle: 'Email para contato:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [contato@acjlocacoes.com](mailto:thisismyemail.@myemail.me)
   - type: DividerSection
     styles:
       self:
