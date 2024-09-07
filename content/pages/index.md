@@ -93,7 +93,7 @@ sections:
     showFeaturedImage: false
     actions:
       - type: Link
-        label: See all posts
+        label: Veja todos os nossos posts
         url: /blog
     posts:
       - content/pages/blog/post-six.md
