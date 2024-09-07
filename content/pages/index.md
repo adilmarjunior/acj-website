@@ -83,7 +83,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projects
+    subtitle: Veja alguns de nossos eventos
     title: Eventos
   - type: FeaturedPostsSection
     elementId: ''
