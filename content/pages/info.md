@@ -128,7 +128,7 @@ sections:
         actions:
           - type: Link
             label: Youtube
-            url: www.youtube.com/acjlocacoes
+            url: 'https://www.youtube.com/acjlocacoes'
         styles:
           self:
             textAlign: left
