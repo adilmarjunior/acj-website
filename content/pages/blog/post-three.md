@@ -13,7 +13,7 @@ excerpt: >-
   qualidade e impacto ao evento
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image3.jpg
+  url: /images/WhatsApp Image 2024-09-07 at 17.46.37.jpeg
   altText: Post thumbnail image
 backgroundImage:
   type: BackgroundImage
