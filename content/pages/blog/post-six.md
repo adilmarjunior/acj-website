@@ -5,8 +5,9 @@ colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
 excerpt: >-
-  Entenda os Benefícios de Alugar um Painel de LED de Alta Qualidade para o Seu
-  Evento
+  Se você está planejando um evento, alugar um painel de LED pode ser o
+  diferencial que transforma seu evento em algo realmente extraordinário.
+  Confira os principais benefícios!
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
