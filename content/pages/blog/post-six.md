@@ -10,7 +10,7 @@ excerpt: >-
   Confira os principais benefícios!
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image6.jpg
+  url: /images/WhatsApp Image 2024-09-07 at 17.45.04.jpeg
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
