@@ -11,7 +11,8 @@
             {
                 "type": "Link",
                 "label": "Informações",
-                "url": "/info"
+                "url": "/info",
+                "altText": "Informações"
             },
             {
                 "type": "Link",
