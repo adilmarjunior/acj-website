@@ -193,7 +193,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-    subtitle: 'You can find me here:'
+    subtitle: 'Você pode nos encontrar aqui:'
   - type: DividerSection
     styles:
       self:
