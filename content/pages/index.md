@@ -84,7 +84,7 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Projects
-    title: test
+    title: Eventos
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
