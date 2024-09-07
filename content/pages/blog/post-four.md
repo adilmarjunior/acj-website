@@ -47,7 +47,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: Stay up-to-date with my words ✍️
+    title: 'Receba mais do nosso conteúdo '
     colors: colors-f
     form:
       type: FormBlock
