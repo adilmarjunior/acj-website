@@ -17,7 +17,7 @@ featuredImage:
   altText: Imagem de paineis de led
 backgroundImage:
   type: BackgroundImage
-  url: /images/gallery-2.jpg
+  url: /images/WhatsApp Image 2024-09-07 at 17.46.37.jpeg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
