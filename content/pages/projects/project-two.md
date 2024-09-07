@@ -12,7 +12,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/WhatsApp Image 2024-09-07 at 17.45.04.jpeg
-  altText: Project image
+  altText: Imagem de projeto de led
 metaTitle: Aluguel de painel de led
 metaDescription: Painel de led de alta resolução
 ---
