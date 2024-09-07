@@ -161,7 +161,7 @@ sections:
         - name: contact
           label: Telefone para contato
           hideLabel: true
-          placeholder: Address
+          placeholder: Telefone para contato
           isRequired: true
           width: 1/2
           type: TextFormControl
