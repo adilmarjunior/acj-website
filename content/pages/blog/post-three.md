@@ -4,7 +4,13 @@ title: 'Eventos ao Ar Livre: Por Que os Painéis de LED São Essenciais?'
 colors: colors-b
 date: '2024-01-01'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  Organizar um evento ao ar livre pode ser uma experiência inesquecível tanto
+  para o público quanto para os organizadores. No entanto, com a vastidão dos
+  espaços e as condições climáticas variáveis, garantir que todos os
+  participantes tenham uma boa experiência é um desafio. É aqui que os painéis
+  de LED entram em cena como uma solução visual indispensável, agregando
+  qualidade e impacto ao evento
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image3.jpg
