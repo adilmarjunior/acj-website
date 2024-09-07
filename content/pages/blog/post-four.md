@@ -4,7 +4,10 @@ title: Como o Audiovisual Pode Aumentar a Qualidade do Seu Evento
 colors: colors-a
 date: '2024-02-01'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  Nos dias de hoje, não basta organizar um evento. É preciso criar uma
+  experiência memorável para o público, e a chave para isso está no uso
+  estratégico de recursos audiovisuais.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image4.jpg
