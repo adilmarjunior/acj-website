@@ -55,5 +55,5 @@ metaTags:
     content: locação de painel de LED
   - type: MetaTag
     property: 'og:title'
-    content: ''
+    content: aluguel de painel de LED para eventos
 ---
