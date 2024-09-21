@@ -10,7 +10,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/d1f3ac26-e6a6-45f7-8b1c-59d95cb332eb.jpeg
-  altText: Project thumbnail image
+  altText: 'Pain[eis de LED festa de Dom Joaquim'
   caption: ''
   elementId: ''
 media:
