@@ -4,8 +4,9 @@ title: Rodeio em Dom Joaquim MG
 date: '2024-09-21'
 client: Awesome client
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Evento de grande porte realizado na cidade de Dom Joaquim MG, atendendo vários
+  artistas de peso. Contando com mais de 60 metros de painéis de LED de alta
+  resolução.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
