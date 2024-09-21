@@ -20,7 +20,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post image
+  altText: Paineis de LED de alta resolução
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
