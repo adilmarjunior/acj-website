@@ -53,4 +53,7 @@ metaTags:
   - type: MetaTag
     property: 'og:title'
     content: locação de painel de LED
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
