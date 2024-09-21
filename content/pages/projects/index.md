@@ -26,7 +26,7 @@ projectFeed:
         - pr-4
         - pb-12
   title: Test
-  subtitle: test
+  subtitle: ''
 styles:
   title:
     textAlign: left
