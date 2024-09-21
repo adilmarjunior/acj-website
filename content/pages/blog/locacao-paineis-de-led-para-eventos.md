@@ -59,4 +59,7 @@ metaTags:
   - type: MetaTag
     property: 'og:title'
     content: painel de LED de alta resolução
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
