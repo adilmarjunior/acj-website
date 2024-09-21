@@ -16,7 +16,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: 'Pain[eis de LED festa de Dom Joaquim'
+  altText: Painéis de LED festa de Dom Joaquim
   caption: Painéis de LED festa de Dom Joaquim
   elementId: ''
 addTitleSuffix: true
