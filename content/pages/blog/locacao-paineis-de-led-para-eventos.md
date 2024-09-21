@@ -43,4 +43,5 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
+socialImage: /images/d1f3ac26-e6a6-45f7-8b1c-59d95cb332eb.jpeg
 ---
