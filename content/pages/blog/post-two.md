@@ -17,7 +17,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/8ee9d6ff-d1e4-4e84-bdc6-e305e95260e8.jpeg
-  altText: Post image
+  altText: Paineis de LED para eventos
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
