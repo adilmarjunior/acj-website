@@ -58,5 +58,5 @@ metaTags:
     content: aluguel de painel de LED para eventos
   - type: MetaTag
     property: 'og:title'
-    content: ''
+    content: painel de LED de alta resolução
 ---
