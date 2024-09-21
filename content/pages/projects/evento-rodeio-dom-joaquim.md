@@ -16,7 +16,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Project image
+  altText: 'Pain[eis de LED festa de Dom Joaquim'
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
