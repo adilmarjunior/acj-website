@@ -19,7 +19,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/494595a5-85f2-4f29-a810-e5cc7ee7506b.jpeg
   altText: Paineis de LED de alta resolução
   caption: Paineis de LED de alta resolução
   elementId: ''
