@@ -45,4 +45,8 @@ backgroundImage:
   opacity: 100
 socialImage: /images/d1f3ac26-e6a6-45f7-8b1c-59d95cb332eb.jpeg
 metaTitle: Locação de Painel de LED para Eventos - Alta Resolução | ACJ Locações
+metaDescription: >-
+  Alugue painéis de LED de alta resolução para eventos corporativos, shows e
+  festas com a ACJ Locações. Mais de 10 anos de experiência em atender grandes
+  eventos com tecnologia de ponta e suporte completo. Solicite seu orçamento!
 ---
