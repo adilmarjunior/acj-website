@@ -5,8 +5,12 @@ title: >-
   Culturais
 date: '2024-09-07'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Eventos religiosos e festividades culturais têm uma atmosfera única, muitas
+  vezes repleta de significado emocional e espiritual. Nos últimos anos, o uso
+  de painéis de LED nesses eventos tem crescido, ajudando a transmitir mensagens
+  de maneira mais clara e impactante. Neste post, vamos explorar por que os
+  painéis de LED são uma adição tão poderosa em celebrações religiosas, festas
+  culturais e eventos comunitários.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
