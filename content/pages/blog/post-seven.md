@@ -14,7 +14,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/f271679a-c2a4-435f-ba52-35b08e9baefc.jpeg
-  altText: Post thumbnail image
+  altText: Paineis de LED para eventos culturais
   caption: Caption of the image
   elementId: ''
 media:
