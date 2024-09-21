@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Rodeio em Dom Joaquim MG
 date: '2024-09-21'
-client: Awesome client
+client: Dom Joaquim MG
 description: >-
   Evento de grande porte realizado na cidade de Dom Joaquim MG, atendendo vários
   artistas de peso. Contando com mais de 60 metros de painéis de LED de alta
