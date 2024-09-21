@@ -16,7 +16,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/d1f3ac26-e6a6-45f7-8b1c-59d95cb332eb.jpeg
-  altText: Post image
+  altText: Paineis de led de alta resolução
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
