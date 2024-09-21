@@ -65,4 +65,7 @@ metaTags:
   - type: MetaTag
     property: 'og:title'
     content: telão de LED para shows
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
