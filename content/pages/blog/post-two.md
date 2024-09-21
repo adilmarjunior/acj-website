@@ -3,8 +3,11 @@ type: PostLayout
 title: 'Como Escolher o Painel de LED Ideal para Seu Evento: Guia Prático'
 date: '2024-09-12'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Com tantas opções disponíveis no mercado, escolher o painel de LED ideal para
+  o seu evento pode parecer uma tarefa desafiadora. Tamanho, resolução, brilho e
+  funcionalidades são apenas alguns dos aspectos a serem considerados. Pensando
+  nisso, preparamos este guia prático para ajudar você a tomar a melhor decisão
+  e garantir que seu evento seja um sucesso.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
