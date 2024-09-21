@@ -49,4 +49,8 @@ metaDescription: >-
   Alugue painéis de LED de alta resolução para eventos corporativos, shows e
   festas com a ACJ Locações. Mais de 10 anos de experiência em atender grandes
   eventos com tecnologia de ponta e suporte completo. Solicite seu orçamento!
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
