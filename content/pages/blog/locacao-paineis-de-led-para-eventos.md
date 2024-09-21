@@ -17,7 +17,7 @@ media:
   type: ImageBlock
   url: /images/d1f3ac26-e6a6-45f7-8b1c-59d95cb332eb.jpeg
   altText: Paineis de led de alta resolução
-  caption: Caption of the image
+  caption: Painéis de Led de alta resolução
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
