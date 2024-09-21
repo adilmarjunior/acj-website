@@ -5,8 +5,12 @@ title: >-
   Inesquecíveis
 date: '2024-09-28'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Os shows e festas de hoje não são mais apenas sobre som e iluminação. O
+  público espera ser imerso em uma experiência sensorial completa, e os painéis
+  de LED estão na linha de frente dessa transformação. De grandes festivais a
+  festas mais intimistas, o uso de painéis de LED permite criar ambientes
+  vibrantes e inesquecíveis. Veja como você pode aproveitar essa tecnologia para
+  elevar seu evento ao próximo nível.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
