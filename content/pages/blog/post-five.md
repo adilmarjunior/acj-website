@@ -14,7 +14,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/WhatsApp Image 2024-09-21 at 13.21.29.jpeg
   altText: Post image
   caption: Caption of the image
   elementId: ''
