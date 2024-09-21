@@ -8,7 +8,7 @@ excerpt: >-
   empresas se apresentam para o público.
 featuredImage:
   type: ImageBlock
-  url: /images/d1f3ac26-e6a6-45f7-8b1c-59d95cb332eb.jpeg
+  url: /images/WhatsApp Image 2024-09-21 at 13.21.29.jpeg
   altText: ''
   caption: Caption of the image
   elementId: ''
