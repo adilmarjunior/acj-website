@@ -18,7 +18,7 @@ media:
   type: ImageBlock
   url: /images/8ee9d6ff-d1e4-4e84-bdc6-e305e95260e8.jpeg
   altText: Paineis de LED para eventos
-  caption: Caption of the image
+  caption: Paineis de LED para eventos
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
