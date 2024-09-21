@@ -15,7 +15,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/WhatsApp Image 2024-09-21 at 13.21.29.jpeg
-  altText: Post image
+  altText: Painéis de LED para eventos corporativos
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
