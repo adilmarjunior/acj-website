@@ -13,7 +13,7 @@ excerpt: >-
   elevar seu evento ao próximo nível.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/494595a5-85f2-4f29-a810-e5cc7ee7506b.jpeg
   altText: Post thumbnail image
   caption: Caption of the image
   elementId: ''
