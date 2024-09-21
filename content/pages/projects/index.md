@@ -25,7 +25,7 @@ projectFeed:
         - pl-4
         - pr-4
         - pb-12
-  title: Test
+  title: ''
   subtitle: ''
 styles:
   title:
