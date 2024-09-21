@@ -14,7 +14,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/494595a5-85f2-4f29-a810-e5cc7ee7506b.jpeg
-  altText: Post thumbnail image
+  altText: Paineis de LED de alta resolução
   caption: Caption of the image
   elementId: ''
 media:
