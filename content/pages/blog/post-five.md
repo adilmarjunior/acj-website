@@ -2,7 +2,10 @@
 type: PostLayout
 title: 'Como o Painel de LED Transforma Eventos Corporativos: Tendências e Benefícios'
 date: '2024-09-21'
-excerpt: ''
+excerpt: >-
+  Nos últimos anos, a demanda por painéis de LED em eventos corporativos cresceu
+  de forma significativa, e essa tecnologia tem revolucionado a maneira como
+  empresas se apresentam para o público.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
