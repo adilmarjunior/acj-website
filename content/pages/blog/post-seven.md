@@ -21,7 +21,7 @@ media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
   altText: Paineis de LED para eventos culturais
-  caption: Caption of the image
+  caption: Paineis de LED para eventos culturais
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
