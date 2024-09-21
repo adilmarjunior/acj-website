@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Test
+title: 'Como o Painel de LED Transforma Eventos Corporativos: Tendências e Benefícios'
 date: '2024-09-21'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
