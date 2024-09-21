@@ -16,7 +16,7 @@ media:
   type: ImageBlock
   url: /images/WhatsApp Image 2024-09-21 at 13.21.29.jpeg
   altText: Painéis de LED para eventos corporativos
-  caption: Caption of the image
+  caption: Painéis de LED para eventos corporativos
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
